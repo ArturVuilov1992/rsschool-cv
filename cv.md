@@ -34,3 +34,5 @@ GitHub projects:
 - Loft School (Java script)
 - Rs School (Frontend Developer)
 
+###English language skills
+My English is fluent and perfect. I am a professional guide in Moscow and a teacher.
