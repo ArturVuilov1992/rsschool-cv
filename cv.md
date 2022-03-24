@@ -24,3 +24,13 @@ return a + b;
 func(1,2);
 ```
 
+###Work experience
+GitHub projects:
+- [Surf Company website](https://github.com/ArturVuilov1992/Loft-School/tree/master)
+- [Yandex Map project](https://github.com/ArturVuilov1992/ymaps)
+
+###Education
+- Loft School (Web Developer)
+- Loft School (Java script)
+- Rs School (Frontend Developer)
+
