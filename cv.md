@@ -14,19 +14,11 @@ My aim is to become a real professional in programming. I study hard constantly,
 ###Skills
 Every day I learn new skills as a frontend beginner. This process makes me enthusiastic and hard-working. Now I am able to write simple code in JS. I know rather well HTML and CSS.  Very soon I will be perfect in React. I also know GIT.
 
-###My code examples
-
-```
-function func(a,b){
-return a + b;
-}
-
-func(1,2);
-```
 
 ###Work experience
 GitHub projects:
-- [Surf Company website](https://github.com/ArturVuilov1992/Loft-School/tree/master)
+- [Surf Company website](https://arturvuilov1992.github.io/Loft-School/)
+- [Shelter project](https://github.com/ArturVuilov1992/Shelter)
 - [Yandex Map project](https://github.com/ArturVuilov1992/ymaps)
 
 ###Education
@@ -35,4 +27,4 @@ GitHub projects:
 - Rs School (Frontend Developer)
 
 ###English language skills
-My English is fluent and perfect. I am a professional guide in Moscow and a teacher.
+My English is fluent and perfect. I am a former English teacher and professional guide in Moscow and Saint-petersburg.
